@@ -1,0 +1,105 @@
+### Colección de Solicitudes HTTP — Microservicio de IA para ERP de Gimnasio (Stateless)
+@baseUrl = http://localhost:8000
+@clientId = 3fa85f64-5717-4562-b3fc-2c963f66afa6
+
+### 1. Comprobación de Salud (Liveness)
+GET {{baseUrl}}/health/live
+
+### 2. Comprobación de Modelos en Memoria (Readiness)
+GET {{baseUrl}}/health/ready
+
+### 3. FLUJO INTEGRAL PRINCIPAL: Análisis Corporal (Fotos/Videos) + Recomendación Directa
+# El backend del ERP envía perfil del cliente, restricciones y fotos.
+# El microservicio responde con métricas posturales y la rutina estructurada para que el ERP la guarde en su BD.
+POST {{baseUrl}}/api/v1/pipeline/analyze-and-recommend
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryStateless
+
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="client_id"
+
+{{clientId}}
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="age"
+
+28
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="weight_kg"
+
+75.5
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="height_cm"
+
+178.0
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="fitness_level"
+
+INTERMEDIO
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="fitness_goal"
+
+HIPERTROFIA
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="available_days_per_week"
+
+4
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="session_duration_minutes"
+
+60
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="available_equipment"
+
+["dumbbells", "barbell", "machine"]
+------WebKitFormBoundaryStateless
+Content-Disposition: form-data; name="physical_restrictions"
+
+["hombro"]
+------WebKitFormBoundaryStateless--
+
+### 4. MODULAR: Análisis Postural de Fotografías (MediaPipe Pose)
+# Permite al backend analizar fotografías de forma aislada.
+POST {{baseUrl}}/api/v1/cv/analyze-posture
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryPhotos
+
+------WebKitFormBoundaryPhotos
+Content-Disposition: form-data; name="photo_frontal"; filename="posture_front.jpg"
+Content-Type: image/jpeg
+
+< ./storage/sample_front.jpg
+------WebKitFormBoundaryPhotos--
+
+### 5. MODULAR: Análisis Biomecánico de Video (Sentadilla / Flexiones)
+# Conteo de repeticiones, cadencia y detección de profundidad articular.
+POST {{baseUrl}}/api/v1/cv/analyze-movement
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryVideo
+
+------WebKitFormBoundaryVideo
+Content-Disposition: form-data; name="exercise_type"
+
+SQUAT
+------WebKitFormBoundaryVideo
+Content-Disposition: form-data; name="video"; filename="squat.mp4"
+Content-Type: video/mp4
+
+< ./storage/sample_squat.mp4
+------WebKitFormBoundaryVideo--
+
+### 6. MODULAR: Generación de Recomendaciones y Rutinas por JSON
+# Cuando el backend del ERP ya tiene los datos y fotos analizadas, solo pide la rutina.
+POST {{baseUrl}}/api/v1/recommendations/generate
+Content-Type: application/json
+
+{
+  "client_id": "{{clientId}}",
+  "age": 28,
+  "weight_kg": 75.5,
+  "height_cm": 178.0,
+  "fitness_level": "INTERMEDIO",
+  "fitness_goal": "HIPERTROFIA",
+  "available_days_per_week": 4,
+  "session_duration_minutes": 60,
+  "available_equipment": ["dumbbells", "barbell", "machine"],
+  "physical_restrictions": ["hombro"],
+  "posture_findings": ["ligera_asimetria_escapular"],
+  "top_k": 10
+}

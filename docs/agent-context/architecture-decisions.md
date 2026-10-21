@@ -48,3 +48,19 @@ Este documento registra las decisiones arquitectónicas estructurales tomadas pa
 - **Consecuencias:**
   * Código 100% tipado compatible con `mypy --strict`.
   * Mayor rendimiento en parseo de payloads.
+
+---
+
+## ADR-005: Transición a Microservicio de Inferencia Stateless (Cero Persistencia en BD)
+- **Fecha:** 2026-10-20
+- **Estado:** Aceptado
+- **Contexto:** El usuario y los requerimientos del ERP del Gimnasio establecen que este microservicio de IA no debe guardar nada en una base de datos ni retener archivos de clientes en disco. Su única responsabilidad es actuar como motor de cómputo analítico e inferencia: recibe los datos y capturas, realiza el análisis corporal biomecánico, ejecuta la recomendación híbrida y devuelve la propuesta estructurada en la respuesta HTTP. El ERP central es el único responsable de la persistencia de usuarios, evaluaciones y rutinas aprobadas.
+- **Decisión:**
+  1. Eliminar la dependencia obligatoria de PostgreSQL; el microservicio opera en modo stateless en memoria.
+  2. Implementar repositorios en memoria (`InMemoryExerciseRepository`, `InMemoryEvaluationRepository`, etc.) basados en las interfaces de dominio existentes (DIP). El catálogo de 51 ejercicios canónicos se carga directamente en memoria desde `ml/datasets/exercises_clean.csv`.
+  3. No guardar archivos multimedia en almacenamiento persistente: las fotos se procesan directamente desde buffers de memoria (`image_bytes`) y los videos utilizan archivos temporales efímeros que se eliminan inmediatamente tras la inferencia (`try...finally`).
+  4. Proveer un endpoint unificado y directo de análisis e inferencia `POST /api/v1/evaluations/analyze-and-recommend` que ejecuta el flujo completo de extremo a extremo sin guardar nada en BD.
+- **Consecuencias:**
+  * Máxima privacidad y cumplimiento de retención cero de datos biométricos sensibles.
+  * Despliegue ultra ligero y horizontalmente escalable (stateless containers).
+  * El ERP central mantiene el control absoluto sobre la base de datos de usuarios y rutinas.
