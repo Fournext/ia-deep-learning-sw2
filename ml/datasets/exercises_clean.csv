@@ -51,3 +51,866 @@ exercise_id,exercise_name,body_part,muscle_type,equipment,movement_type,movement
 49,towel pull-up,forearms,grip strength,pull-up bar,compound,pull,intermediate,3.0,4.0,10,15,8.0
 50,fat grip dumbbell curl,forearms,grip strength,dumbbells,isolation,other,beginner,3.0,4.0,10,15,8.0
 51,hammer curl,forearms,grip strength,other,isolation,other,beginner,3.0,4.0,10,15,8.0
+52,3/4 sit-up,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+53,90/90 hamstring,legs,hamstrings,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+54,ab crunch machine,abs,abs,machine,isolation,core,intermediate,3.0,4.0,8,12,7.5
+55,ab roller,abs,abs,other,compound,core,intermediate,3.0,4.0,8,12,7.5
+56,adductor,legs,adductors,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+57,adductor/groin,legs,adductors,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+58,advanced kettlebell windmill,abs,abs,kettlebells,isolation,core,intermediate,3.0,4.0,8,12,7.5
+59,air bike,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+60,all fours quad stretch,legs,quadriceps,bodyweight,isolation,other,intermediate,3.0,4.0,8,12,7.5
+61,alternate hammer curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+62,alternate heel touchers,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+63,alternate incline dumbbell curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+64,alternate leg diagonal bound,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+65,alternating cable shoulder press,shoulders,shoulders,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+66,alternating deltoid raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+67,alternating floor press,chest,chest,kettlebells,compound,push,beginner,3.0,3.0,10,15,8.0
+68,alternating hang clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+69,alternating kettlebell press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+70,alternating kettlebell row,back,upper,kettlebells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+71,alternating renegade row,back,upper,kettlebells,compound,pull,advanced,4.0,5.0,6,10,9.0
+72,ankle circles,legs,calves,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+73,ankle on the knee,legs,glutes,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+74,anterior tibialis-smr,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+75,anti-gravity press,shoulders,shoulders,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+76,arm circles,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+77,arnold dumbbell press,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+78,around the worlds,chest,chest,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+79,atlas stone trainer,back,lower,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+80,atlas stones,back,lower,other,compound,hinge,advanced,4.0,5.0,6,10,9.0
+81,axle deadlift,back,lower,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+82,back flyes - with bands,shoulders,shoulders,bands,compound,pull,beginner,3.0,3.0,10,15,8.0
+83,backward drag,legs,quadriceps,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+84,backward medicine ball throw,shoulders,shoulders,other,compound,push,beginner,3.0,3.0,10,15,8.0
+85,balance board,legs,calves,other,compound,other,beginner,3.0,3.0,10,15,8.0
+86,ball leg curl,legs,hamstrings,other,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+87,band assisted pull-up,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+88,band good morning,legs,hamstrings,bands,compound,hinge,beginner,3.0,3.0,10,15,8.0
+89,band good morning (pull through),legs,hamstrings,bands,compound,hinge,beginner,3.0,3.0,10,15,8.0
+90,band hip adductions,legs,adductors,bands,isolation,pull,beginner,3.0,3.0,10,15,8.0
+91,band pull apart,shoulders,shoulders,bands,isolation,pull,beginner,3.0,3.0,10,15,8.0
+92,band skull crusher,arms,triceps,bands,isolation,push,beginner,3.0,3.0,10,15,8.0
+93,barbell ab rollout,abs,abs,barbell,compound,core,intermediate,3.0,4.0,8,12,7.5
+94,barbell ab rollout - on knees,abs,abs,barbell,compound,core,advanced,4.0,5.0,6,10,9.0
+95,barbell bench press - medium grip,chest,chest,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+96,barbell curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+97,barbell curls lying against an incline,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+98,barbell deadlift,back,lower,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+99,barbell full squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+100,barbell glute bridge,legs,glutes,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+101,barbell guillotine bench press,chest,chest,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+102,barbell hack squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+103,barbell hip thrust,legs,glutes,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+104,barbell incline bench press - medium grip,chest,chest,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+105,barbell incline shoulder raise,shoulders,shoulders,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+106,barbell lunge,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+107,barbell rear delt row,shoulders,shoulders,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+108,barbell rollout from bench,abs,abs,barbell,compound,core,intermediate,3.0,4.0,8,12,7.5
+109,barbell seated calf raise,legs,calves,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+110,barbell shoulder press,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+111,barbell shrug,back,upper,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+112,barbell shrug behind the back,back,upper,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+113,barbell side bend,abs,abs,barbell,isolation,core,beginner,3.0,3.0,10,15,8.0
+114,barbell side split squat,legs,quadriceps,barbell,compound,squat,beginner,3.0,3.0,10,15,8.0
+115,barbell squat,legs,quadriceps,barbell,compound,squat,beginner,3.0,3.0,10,15,8.0
+116,barbell squat to a bench,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+117,barbell step ups,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+118,barbell walking lunge,legs,quadriceps,barbell,compound,squat,beginner,3.0,3.0,10,15,8.0
+119,battling ropes,shoulders,shoulders,other,compound,push,beginner,3.0,3.0,10,15,8.0
+120,bear crawl sled drags,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+121,behind head chest stretch,chest,chest,other,isolation,push,advanced,4.0,5.0,6,10,9.0
+122,bench dips,arms,triceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+123,bench jump,legs,quadriceps,bodyweight,compound,push,intermediate,3.0,4.0,8,12,7.5
+124,bench press - powerlifting,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+125,bench press - with bands,chest,chest,bands,compound,push,beginner,3.0,3.0,10,15,8.0
+126,bench press with chains,arms,triceps,barbell,compound,push,advanced,4.0,5.0,6,10,9.0
+127,bench sprint,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+128,bent-arm barbell pullover,back,upper,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+129,bent-arm dumbbell pullover,chest,chest,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+130,bent-knee hip raise,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+131,bent over barbell row,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+132,bent over dumbbell rear delt raise with head on bench,shoulders,shoulders,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+133,bent over low-pulley side lateral,shoulders,shoulders,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+134,bent over one-arm long bar row,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+135,bent over two-arm long bar row,back,upper,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+136,bent over two-dumbbell row,back,upper,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+137,bent over two-dumbbell row with palms in,back,upper,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+138,bent press,abs,abs,kettlebells,compound,core,advanced,4.0,5.0,6,10,9.0
+139,bicycling,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+140,"bicycling, stationary",legs,quadriceps,machine,isolation,other,beginner,3.0,3.0,10,15,8.0
+141,board press,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+142,body-up,arms,triceps,bodyweight,isolation,push,intermediate,3.0,4.0,8,12,7.5
+143,body tricep press,arms,triceps,bodyweight,isolation,push,beginner,3.0,3.0,10,15,8.0
+144,bodyweight flyes,chest,chest,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+145,bodyweight mid row,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+146,bodyweight squat,legs,quadriceps,bodyweight,compound,squat,beginner,3.0,3.0,10,15,8.0
+147,bodyweight walking lunge,legs,quadriceps,other,compound,squat,beginner,3.0,3.0,10,15,8.0
+148,bosu ball cable crunch with side bends,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+149,bottoms-up clean from the hang position,forearms,forearms,kettlebells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+150,bottoms up,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+151,box jump (multiple response),legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+152,box skip,legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+153,box squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+154,box squat with bands,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+155,box squat with chains,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+156,brachialis-smr,arms,biceps,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+157,bradford/rocky presses,shoulders,shoulders,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+158,butt-ups,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+159,butt lift (bridge),legs,glutes,bodyweight,isolation,push,beginner,3.0,3.0,10,15,8.0
+160,butterfly,chest,chest,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+161,cable chest press,chest,chest,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+162,cable crossover,chest,chest,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+163,cable crunch,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+164,cable deadlifts,legs,quadriceps,cable,compound,hinge,beginner,3.0,3.0,10,15,8.0
+165,cable hammer curls - rope attachment,arms,biceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+166,cable hip adduction,legs,quadriceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+167,cable incline pushdown,back,upper,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+168,cable incline triceps extension,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+169,cable internal rotation,shoulders,shoulders,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+170,cable iron cross,chest,chest,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+171,cable judo flip,abs,abs,cable,compound,core,beginner,3.0,3.0,10,15,8.0
+172,cable lying triceps extension,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+173,cable one arm tricep extension,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+174,cable preacher curl,arms,biceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+175,cable rear delt fly,shoulders,shoulders,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+176,cable reverse crunch,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+177,cable rope overhead triceps extension,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+178,cable rope rear-delt rows,shoulders,shoulders,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+179,cable russian twists,abs,abs,cable,compound,core,beginner,3.0,3.0,10,15,8.0
+180,cable seated crunch,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+181,cable seated lateral raise,shoulders,shoulders,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+182,cable shoulder press,shoulders,shoulders,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+183,cable shrugs,back,upper,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+184,cable wrist curl,forearms,forearms,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+185,calf-machine shoulder shrug,back,upper,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+186,calf press,legs,calves,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+187,calf press on the leg press machine,legs,calves,machine,isolation,squat,beginner,3.0,3.0,10,15,8.0
+188,calf raise on a dumbbell,legs,calves,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+189,calf raises - with bands,legs,calves,bands,isolation,push,beginner,3.0,3.0,10,15,8.0
+190,calf stretch elbows against wall,legs,calves,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+191,calf stretch hands against wall,legs,calves,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+192,calves-smr,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+193,car deadlift,legs,quadriceps,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+194,car drivers,shoulders,shoulders,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+195,carioca quick step,legs,adductors,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+196,cat stretch,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+197,catch and overhead throw,back,upper,other,compound,push,beginner,3.0,3.0,10,15,8.0
+198,chain handle extension,arms,triceps,other,isolation,push,intermediate,3.0,4.0,8,12,7.5
+199,chain press,chest,chest,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+200,chair leg extended stretch,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+201,chair lower back stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+202,chair squat,legs,quadriceps,machine,compound,squat,beginner,3.0,3.0,10,15,8.0
+203,chair upper body stretch,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+204,chest and front of shoulder stretch,chest,chest,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+205,chest push from 3 point stance,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+206,chest push (multiple response),chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+207,chest push (single response),chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+208,chest push with run release,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+209,chest stretch on stability ball,chest,chest,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+210,child's pose,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+211,chin-up,back,upper,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+212,chin to chest stretch,shoulders,neck,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+213,circus bell,shoulders,shoulders,other,compound,push,advanced,4.0,5.0,6,10,9.0
+214,clean,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+215,clean deadlift,legs,hamstrings,barbell,compound,hinge,beginner,3.0,3.0,10,15,8.0
+216,clean pull,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+217,clean shrug,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+218,clean and jerk,shoulders,shoulders,barbell,compound,push,advanced,4.0,5.0,6,10,9.0
+219,clean and press,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+220,clean from blocks,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+221,clock push-up,chest,chest,bodyweight,compound,push,intermediate,3.0,4.0,8,12,7.5
+222,close-grip barbell bench press,arms,triceps,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+223,close-grip dumbbell press,arms,triceps,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+224,close-grip ez-bar curl with band,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+225,close-grip ez-bar press,arms,triceps,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+226,close-grip ez bar curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+227,close-grip front lat pulldown,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+228,close-grip push-up off of a dumbbell,arms,triceps,bodyweight,compound,push,intermediate,3.0,4.0,8,12,7.5
+229,close-grip standing barbell curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+230,cocoons,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+231,conan's wheel,legs,quadriceps,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+232,cross-body crunch,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+233,cross body hammer curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+234,cross over - with bands,chest,chest,bands,compound,push,beginner,3.0,3.0,10,15,8.0
+235,crossover reverse lunge,back,lower,other,compound,squat,intermediate,3.0,4.0,8,12,7.5
+236,crucifix,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+237,crunch - hands overhead,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+238,crunch - legs on exercise ball,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+239,cuban press,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+240,dancer's stretch,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+241,dead bug,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+242,deadlift with bands,back,lower,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+243,deadlift with chains,back,lower,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+244,decline barbell bench press,chest,chest,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+245,decline close-grip bench to skull crusher,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+246,decline crunch,abs,abs,bodyweight,isolation,core,intermediate,3.0,4.0,8,12,7.5
+247,decline dumbbell bench press,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+248,decline dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+249,decline ez bar triceps extension,arms,triceps,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+250,decline oblique crunch,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+251,decline push-up,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+252,decline reverse crunch,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+253,decline smith press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+254,deficit deadlift,back,lower,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+255,depth jump leap,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+256,dip machine,arms,triceps,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+257,dips - chest version,chest,chest,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+258,dips - triceps version,arms,triceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+259,donkey calf raises,legs,calves,other,isolation,push,intermediate,3.0,4.0,8,12,7.5
+260,double kettlebell alternating hang clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+261,double kettlebell jerk,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+262,double kettlebell push press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+263,double kettlebell snatch,shoulders,shoulders,kettlebells,compound,pull,advanced,4.0,5.0,6,10,9.0
+264,double kettlebell windmill,abs,abs,kettlebells,isolation,core,intermediate,3.0,4.0,8,12,7.5
+265,double leg butt kick,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+266,downward facing balance,legs,glutes,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+267,drag curl,arms,biceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+268,drop push,chest,chest,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+269,dumbbell alternate bicep curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+270,dumbbell bench press,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+271,dumbbell bench press with neutral grip,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+272,dumbbell bicep curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+273,dumbbell clean,legs,hamstrings,dumbbells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+274,dumbbell floor press,arms,triceps,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+275,dumbbell incline row,back,upper,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+276,dumbbell incline shoulder raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+277,dumbbell lunges,legs,quadriceps,dumbbells,compound,squat,beginner,3.0,3.0,10,15,8.0
+278,dumbbell lying one-arm rear lateral raise,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+279,dumbbell lying pronation,forearms,forearms,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+280,dumbbell lying rear lateral raise,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+281,dumbbell lying supination,forearms,forearms,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+282,dumbbell one-arm shoulder press,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+283,dumbbell one-arm triceps extension,arms,triceps,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+284,dumbbell one-arm upright row,shoulders,shoulders,dumbbells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+285,dumbbell prone incline curl,arms,biceps,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+286,dumbbell raise,shoulders,shoulders,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+287,dumbbell rear lunge,legs,quadriceps,dumbbells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+288,dumbbell scaption,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+289,dumbbell seated box jump,legs,quadriceps,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+290,dumbbell seated one-leg calf raise,legs,calves,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+291,dumbbell shoulder press,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+292,dumbbell shrug,back,upper,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+293,dumbbell side bend,abs,abs,dumbbells,isolation,core,beginner,3.0,3.0,10,15,8.0
+294,dumbbell squat,legs,quadriceps,dumbbells,compound,squat,beginner,3.0,3.0,10,15,8.0
+295,dumbbell squat to a bench,legs,quadriceps,dumbbells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+296,dumbbell step ups,legs,quadriceps,dumbbells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+297,dumbbell tricep extension -pronated grip,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+298,dynamic back stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+299,dynamic chest stretch,chest,chest,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+300,ez-bar curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+301,ez-bar skullcrusher,arms,triceps,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+302,elbow circles,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+303,elbow to knee,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+304,elbows back,chest,chest,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+305,elevated back lunge,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+306,elevated cable rows,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+307,elliptical trainer,legs,quadriceps,machine,isolation,other,intermediate,3.0,4.0,8,12,7.5
+308,exercise ball crunch,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+309,exercise ball pull-in,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+310,extended range one-arm kettlebell floor press,chest,chest,kettlebells,compound,push,beginner,3.0,3.0,10,15,8.0
+311,external rotation,shoulders,shoulders,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+312,external rotation with band,shoulders,shoulders,bands,compound,pull,beginner,3.0,3.0,10,15,8.0
+313,external rotation with cable,shoulders,shoulders,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+314,face pull,shoulders,shoulders,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+315,farmer's walk,forearms,forearms,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+316,fast skipping,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+317,finger curls,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+318,flat bench cable flyes,chest,chest,cable,isolation,push,intermediate,3.0,4.0,8,12,7.5
+319,flat bench leg pull-in,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+320,flat bench lying leg raise,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+321,flexor incline dumbbell curls,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+322,floor glute-ham raise,legs,hamstrings,other,isolation,hinge,intermediate,3.0,4.0,8,12,7.5
+323,floor press,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+324,floor press with chains,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+325,flutter kicks,legs,glutes,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+326,foot-smr,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+327,forward drag with press,chest,chest,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+328,frankenstein squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+329,freehand jump squat,legs,quadriceps,bodyweight,compound,squat,intermediate,3.0,4.0,8,12,7.5
+330,frog hops,legs,quadriceps,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+331,frog sit-ups,abs,abs,bodyweight,isolation,core,intermediate,3.0,4.0,8,12,7.5
+332,front barbell squat,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+333,front barbell squat to a bench,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+334,front box jump,legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+335,front cable raise,shoulders,shoulders,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+336,front cone hops (or hurdle hops),legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+337,front dumbbell raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+338,front incline dumbbell raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+339,front leg raises,legs,hamstrings,bodyweight,compound,hinge,beginner,3.0,3.0,10,15,8.0
+340,front plate raise,shoulders,shoulders,other,isolation,push,intermediate,3.0,4.0,8,12,7.5
+341,front raise and pullover,chest,chest,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+342,front squat (clean grip),legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+343,front squats with two kettlebells,legs,quadriceps,kettlebells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+344,front two-dumbbell raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+345,full range-of-motion lat pulldown,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+346,gironda sternum chins,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+347,glute ham raise,legs,hamstrings,machine,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+348,glute kickback,legs,glutes,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+349,goblet squat,legs,quadriceps,kettlebells,compound,squat,beginner,3.0,3.0,10,15,8.0
+350,good morning,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+351,good morning off pins,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+352,gorilla chin/crunch,abs,abs,bodyweight,compound,core,intermediate,3.0,4.0,8,12,7.5
+353,groin and back stretch,legs,adductors,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+354,groiners,legs,adductors,bodyweight,compound,pull,intermediate,3.0,4.0,8,12,7.5
+355,hack squat,legs,quadriceps,machine,compound,squat,beginner,3.0,3.0,10,15,8.0
+356,hammer grip incline db bench press,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+357,hamstring-smr,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+358,hamstring stretch,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+359,handstand push-ups,shoulders,shoulders,bodyweight,compound,push,advanced,4.0,5.0,6,10,9.0
+360,hang clean,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+361,hang clean - below the knees,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+362,hang snatch,legs,hamstrings,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+363,hang snatch - below knees,legs,hamstrings,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+364,hanging bar good morning,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+365,hanging leg raise,abs,abs,bodyweight,isolation,core,advanced,4.0,5.0,6,10,9.0
+366,hanging pike,abs,abs,bodyweight,compound,core,advanced,4.0,5.0,6,10,9.0
+367,heaving snatch balance,legs,quadriceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+368,heavy bag thrust,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+369,high cable curls,arms,biceps,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+370,hip circles (prone),legs,abductors,bodyweight,isolation,pull,beginner,3.0,3.0,10,15,8.0
+371,hip extension with bands,legs,glutes,bands,compound,push,beginner,3.0,3.0,10,15,8.0
+372,hip flexion with band,legs,quadriceps,bands,compound,pull,beginner,3.0,3.0,10,15,8.0
+373,hip lift with band,legs,glutes,bands,compound,push,beginner,3.0,3.0,10,15,8.0
+374,hug a ball,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+375,hug knees to chest,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+376,hurdle hops,legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+377,hyperextensions (back extensions),back,lower,other,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+378,hyperextensions with no hyperextension bench,back,lower,bodyweight,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+379,it band and glute stretch,legs,abductors,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+380,iliotibial tract-smr,legs,abductors,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+381,inchworm,legs,hamstrings,bodyweight,compound,other,beginner,3.0,3.0,10,15,8.0
+382,incline barbell triceps extension,arms,triceps,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+383,incline bench pull,back,upper,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+384,incline cable chest press,chest,chest,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+385,incline cable flye,chest,chest,cable,isolation,push,intermediate,3.0,4.0,8,12,7.5
+386,incline dumbbell bench with palms facing in,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+387,incline dumbbell curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+388,incline dumbbell flyes - with a twist,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+389,incline hammer curls,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+390,incline inner biceps curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+391,incline push-up,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+392,incline push-up close-grip,arms,triceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+393,incline push-up depth jump,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+394,incline push-up medium,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+395,incline push-up reverse grip,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+396,incline push-up wide,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+397,intermediate groin stretch,legs,hamstrings,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+398,intermediate hip flexor and quad stretch,legs,quadriceps,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+399,internal rotation with band,shoulders,shoulders,bands,isolation,push,beginner,3.0,3.0,10,15,8.0
+400,inverted row,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+401,inverted row with straps,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+402,iron cross,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+403,iron crosses (stretch),legs,quadriceps,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+404,isometric chest squeezes,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+405,isometric neck exercise - front and back,shoulders,neck,bodyweight,isolation,other,beginner,3.0,3.0,10,15,8.0
+406,isometric neck exercise - sides,shoulders,neck,bodyweight,isolation,other,beginner,3.0,3.0,10,15,8.0
+407,isometric wipers,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+408,jm press,arms,triceps,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+409,jackknife sit-up,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+410,janda sit-up,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+411,jefferson squats,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+412,jerk balance,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+413,jerk dip squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+414,"jogging, treadmill",legs,quadriceps,machine,isolation,other,beginner,3.0,3.0,10,15,8.0
+415,keg load,back,lower,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+416,kettlebell arnold press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+417,kettlebell dead clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+418,kettlebell figure 8,abs,abs,kettlebells,isolation,core,intermediate,3.0,4.0,8,12,7.5
+419,kettlebell halo,shoulders,shoulders,kettlebells,compound,push,beginner,3.0,3.0,10,15,8.0
+420,kettlebell halo with overhead extension,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+421,kettlebell hang clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+422,kettlebell one-legged deadlift,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+423,kettlebell overhead triceps extension,arms,triceps,kettlebells,isolation,push,beginner,3.0,3.0,10,15,8.0
+424,kettlebell pass between the legs,abs,abs,kettlebells,compound,core,intermediate,3.0,4.0,8,12,7.5
+425,kettlebell pirate ships,shoulders,shoulders,kettlebells,compound,push,beginner,3.0,3.0,10,15,8.0
+426,kettlebell pistol squat,legs,quadriceps,kettlebells,compound,squat,advanced,4.0,5.0,6,10,9.0
+427,kettlebell seated press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+428,kettlebell seesaw press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+429,kettlebell sumo high pull,back,upper,kettlebells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+430,kettlebell thruster,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+431,kettlebell turkish get-up (lunge style),shoulders,shoulders,kettlebells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+432,kettlebell turkish get-up (squat style),shoulders,shoulders,kettlebells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+433,kettlebell windmill,abs,abs,kettlebells,compound,core,intermediate,3.0,4.0,8,12,7.5
+434,kipping muscle up,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+435,knee across the body,legs,glutes,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+436,knee circles,legs,calves,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+437,knee/hip raise on parallel bars,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+438,knee tuck jump,legs,hamstrings,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+439,kneeling arm drill,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+440,kneeling cable crunch with alternating oblique twists,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+441,kneeling cable triceps extension,arms,triceps,cable,isolation,push,intermediate,3.0,4.0,8,12,7.5
+442,kneeling forearm stretch,forearms,forearms,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+443,kneeling high pulley row,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+444,kneeling hip flexor,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+445,kneeling jump squat,legs,glutes,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+446,kneeling single-arm high pulley row,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+447,kneeling squat,legs,glutes,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+448,landmine 180's,abs,abs,barbell,compound,core,beginner,3.0,3.0,10,15,8.0
+449,landmine linear jammer,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+450,lateral bound,legs,adductors,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+451,lateral box jump,legs,adductors,other,compound,push,beginner,3.0,3.0,10,15,8.0
+452,lateral cone hops,legs,adductors,other,compound,push,beginner,3.0,3.0,10,15,8.0
+453,lateral raise - with bands,shoulders,shoulders,bands,isolation,push,beginner,3.0,3.0,10,15,8.0
+454,latissimus dorsi-smr,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+455,leg-over floor press,chest,chest,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+456,leg-up hamstring stretch,legs,hamstrings,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+457,leg lift,legs,glutes,bodyweight,isolation,push,beginner,3.0,3.0,10,15,8.0
+458,leg pull-in,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+459,leverage chest press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+460,leverage deadlift,legs,quadriceps,machine,compound,hinge,beginner,3.0,3.0,10,15,8.0
+461,leverage decline chest press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+462,leverage high row,back,upper,machine,compound,pull,beginner,3.0,3.0,10,15,8.0
+463,leverage incline chest press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+464,leverage iso row,back,upper,machine,compound,pull,beginner,3.0,3.0,10,15,8.0
+465,leverage shoulder press,shoulders,shoulders,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+466,leverage shrug,back,upper,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+467,linear 3-part start technique,legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+468,linear acceleration wall drill,legs,hamstrings,other,compound,other,beginner,3.0,3.0,10,15,8.0
+469,linear depth jump,legs,quadriceps,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+470,log lift,shoulders,shoulders,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+471,london bridges,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+472,looking at ceiling,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+473,low cable crossover,chest,chest,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+474,low cable triceps extension,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+475,low pulley row to neck,shoulders,shoulders,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+476,lower back-smr,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+477,lower back curl,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+478,lunge pass through,legs,hamstrings,kettlebells,compound,squat,intermediate,3.0,4.0,8,12,7.5
+479,lunge sprint,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+480,lying bent leg groin,legs,adductors,other,isolation,other,advanced,4.0,5.0,6,10,9.0
+481,lying cable curl,arms,biceps,cable,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+482,lying cambered barbell row,back,upper,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+483,lying close-grip bar curl on high pulley,arms,biceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+484,lying close-grip barbell triceps extension behind the head,arms,triceps,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+485,lying close-grip barbell triceps press to chin,arms,triceps,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+486,lying crossover,legs,abductors,bodyweight,isolation,other,advanced,4.0,5.0,6,10,9.0
+487,lying dumbbell tricep extension,arms,triceps,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+488,lying face down plate neck resistance,shoulders,neck,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+489,lying face up plate neck resistance,shoulders,neck,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+490,lying glute,legs,glutes,bodyweight,isolation,other,advanced,4.0,5.0,6,10,9.0
+491,lying hamstring,legs,hamstrings,other,isolation,other,advanced,4.0,5.0,6,10,9.0
+492,lying high bench barbell curl,arms,biceps,barbell,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+493,lying leg curls,legs,hamstrings,machine,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+494,lying machine squat,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+495,lying one-arm lateral raise,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+496,lying prone quadriceps,legs,quadriceps,bodyweight,isolation,other,advanced,4.0,5.0,6,10,9.0
+497,lying rear delt raise,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+498,lying supine dumbbell curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+499,lying t-bar row,back,upper,machine,compound,pull,intermediate,3.0,4.0,8,12,7.5
+500,lying triceps press,arms,triceps,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+501,machine bench press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+502,machine bicep curl,arms,biceps,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+503,machine preacher curls,arms,biceps,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+504,machine shoulder (military) press,shoulders,shoulders,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+505,machine triceps extension,arms,triceps,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+506,medicine ball chest pass,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+507,medicine ball full twist,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+508,medicine ball scoop throw,shoulders,shoulders,other,compound,push,beginner,3.0,3.0,10,15,8.0
+509,middle back shrug,back,upper,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+510,middle back stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+511,mixed grip chin,back,upper,other,compound,pull,advanced,4.0,5.0,6,10,9.0
+512,monster walk,legs,abductors,bands,compound,pull,beginner,3.0,3.0,10,15,8.0
+513,mountain climbers,legs,quadriceps,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+514,moving claw series,legs,hamstrings,other,compound,other,beginner,3.0,3.0,10,15,8.0
+515,muscle snatch,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+516,muscle up,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+517,narrow stance hack squats,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+518,narrow stance leg press,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+519,narrow stance squats,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+520,natural glute ham raise,legs,hamstrings,bodyweight,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+521,neck-smr,shoulders,neck,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+522,neck press,chest,chest,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+523,oblique crunches,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+524,oblique crunches - on the floor,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+525,olympic squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+526,on-your-back quad stretch,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+527,on your side quad stretch,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+528,one-arm dumbbell row,back,upper,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+529,one-arm flat bench dumbbell flye,chest,chest,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+530,one-arm high-pulley cable side bends,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+531,one-arm incline lateral raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+532,one-arm kettlebell clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+533,one-arm kettlebell clean and jerk,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+534,one-arm kettlebell floor press,chest,chest,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+535,one-arm kettlebell jerk,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+536,one-arm kettlebell military press to the side,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+537,one-arm kettlebell para press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+538,one-arm kettlebell push press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+539,one-arm kettlebell row,back,upper,kettlebells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+540,one-arm kettlebell snatch,shoulders,shoulders,kettlebells,compound,pull,advanced,4.0,5.0,6,10,9.0
+541,one-arm kettlebell split jerk,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+542,one-arm kettlebell split snatch,shoulders,shoulders,kettlebells,compound,pull,advanced,4.0,5.0,6,10,9.0
+543,one-arm kettlebell swings,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+544,one-arm long bar row,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+545,one-arm medicine ball slam,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+546,one-arm open palm kettlebell clean,legs,hamstrings,kettlebells,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+547,one-arm overhead kettlebell squats,legs,quadriceps,kettlebells,compound,squat,advanced,4.0,5.0,6,10,9.0
+548,one-arm side deadlift,legs,quadriceps,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+549,one-arm side laterals,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+550,one-legged cable kickback,legs,glutes,cable,isolation,push,intermediate,3.0,4.0,8,12,7.5
+551,one arm against wall,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+552,one arm chin-up,back,upper,other,compound,pull,advanced,4.0,5.0,6,10,9.0
+553,one arm dumbbell bench press,chest,chest,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+554,one arm dumbbell preacher curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+555,one arm floor press,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+556,one arm lat pulldown,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+557,one arm pronated dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+558,one arm supinated dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+559,one half locust,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+560,one handed hang,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+561,one knee to chest,legs,glutes,other,compound,other,beginner,3.0,3.0,10,15,8.0
+562,one leg barbell squat,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+563,open palm kettlebell clean,legs,hamstrings,kettlebells,compound,hinge,advanced,4.0,5.0,6,10,9.0
+564,otis-up,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+565,overhead cable curl,arms,biceps,cable,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+566,overhead lat,back,upper,other,isolation,pull,advanced,4.0,5.0,6,10,9.0
+567,overhead slam,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+568,overhead squat,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+569,overhead stretch,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+570,overhead triceps,arms,triceps,bodyweight,compound,push,advanced,4.0,5.0,6,10,9.0
+571,pallof press,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+572,pallof press with rotation,abs,abs,cable,compound,core,beginner,3.0,3.0,10,15,8.0
+573,palms-down dumbbell wrist curl over a bench,forearms,forearms,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+574,palms-down wrist curl over a bench,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+575,palms-up barbell wrist curl over a bench,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+576,palms-up dumbbell wrist curl over a bench,forearms,forearms,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+577,parallel bar dip,arms,triceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+578,pelvic tilt into bridge,back,lower,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+579,peroneals-smr,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+580,peroneals stretch,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+581,physioball hip bridge,legs,glutes,other,compound,push,beginner,3.0,3.0,10,15,8.0
+582,pin presses,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+583,piriformis-smr,legs,glutes,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+584,plate twist,abs,abs,other,compound,core,intermediate,3.0,4.0,8,12,7.5
+585,platform hamstring slides,legs,hamstrings,other,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+586,plie dumbbell squat,legs,quadriceps,dumbbells,compound,squat,beginner,3.0,3.0,10,15,8.0
+587,plyo kettlebell pushups,chest,chest,kettlebells,compound,push,advanced,4.0,5.0,6,10,9.0
+588,plyo push-up,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+589,posterior tibialis stretch,legs,calves,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+590,power clean,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+591,power clean from blocks,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+592,power jerk,legs,quadriceps,barbell,compound,push,advanced,4.0,5.0,6,10,9.0
+593,power partials,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+594,power snatch,legs,hamstrings,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+595,power snatch from blocks,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+596,power stairs,legs,hamstrings,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+597,preacher curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+598,preacher hammer dumbbell curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+599,press sit-up,abs,abs,barbell,compound,core,advanced,4.0,5.0,6,10,9.0
+600,prone manual hamstring,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+601,prowler sprint,legs,hamstrings,other,compound,push,beginner,3.0,3.0,10,15,8.0
+602,pull through,legs,glutes,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+603,pullups,back,upper,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+604,push-up wide,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+605,push-ups - close triceps position,arms,triceps,bodyweight,compound,push,intermediate,3.0,4.0,8,12,7.5
+606,push-ups with feet elevated,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+607,push-ups with feet on an exercise ball,chest,chest,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+608,push press,shoulders,shoulders,barbell,compound,push,advanced,4.0,5.0,6,10,9.0
+609,push press - behind the neck,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+610,push up to side plank,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+611,pushups,chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+612,pushups (close and wide hand positions),chest,chest,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+613,pyramid,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+614,quad stretch,legs,quadriceps,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+615,quadriceps-smr,legs,quadriceps,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+616,quick leap,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+617,rack delivery,shoulders,shoulders,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+618,rack pull with bands,back,lower,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+619,rack pulls,back,lower,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+620,rear leg raises,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+621,recumbent bike,legs,quadriceps,machine,isolation,other,beginner,3.0,3.0,10,15,8.0
+622,return push from stance,shoulders,shoulders,other,compound,push,beginner,3.0,3.0,10,15,8.0
+623,reverse band bench press,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+624,reverse band box squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+625,reverse band deadlift,back,lower,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+626,reverse band power squat,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+627,reverse band sumo deadlift,legs,hamstrings,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+628,reverse barbell curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+629,reverse barbell preacher curls,arms,biceps,barbell,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+630,reverse cable curl,arms,biceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+631,reverse crunch,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+632,reverse flyes,shoulders,shoulders,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+633,reverse flyes with external rotation,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+634,reverse grip bent-over rows,back,upper,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+635,reverse grip triceps pushdown,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+636,reverse hyperextension,legs,hamstrings,machine,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+637,reverse machine flyes,shoulders,shoulders,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+638,reverse plate curls,arms,biceps,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+639,reverse triceps bench press,arms,triceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+640,rhomboids-smr,back,upper,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+641,rickshaw carry,forearms,forearms,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+642,rickshaw deadlift,legs,quadriceps,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+643,ring dips,arms,triceps,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+644,rocket jump,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+645,rocking standing calf raise,legs,calves,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+646,rocky pull-ups/pulldowns,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+647,romanian deadlift,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+648,romanian deadlift from deficit,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+649,rope climb,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+650,rope crunch,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+651,rope jumping,legs,quadriceps,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+652,rope straight-arm pulldown,back,upper,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+653,round the world shoulder stretch,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+654,"rowing, stationary",legs,quadriceps,machine,isolation,other,intermediate,3.0,4.0,8,12,7.5
+655,runner's stretch,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+656,"running, treadmill",legs,quadriceps,machine,isolation,other,beginner,3.0,3.0,10,15,8.0
+657,russian twist,abs,abs,bodyweight,compound,core,intermediate,3.0,4.0,8,12,7.5
+658,sandbag load,legs,quadriceps,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+659,scapular pull-up,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+660,scissor kick,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+661,scissors jump,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+662,seated band hamstring curl,legs,hamstrings,other,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+663,seated barbell military press,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+664,seated barbell twist,abs,abs,barbell,isolation,core,beginner,3.0,3.0,10,15,8.0
+665,seated bent-over one-arm dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+666,seated bent-over rear delt raise,shoulders,shoulders,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+667,seated bent-over two-arm dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+668,seated biceps,arms,biceps,bodyweight,isolation,pull,advanced,4.0,5.0,6,10,9.0
+669,seated cable shoulder press,shoulders,shoulders,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+670,seated calf raise,legs,calves,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+671,seated calf stretch,legs,calves,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+672,seated close-grip concentration barbell curl,arms,biceps,barbell,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+673,seated dumbbell curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+674,seated dumbbell inner biceps curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+675,seated dumbbell palms-down wrist curl,forearms,forearms,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+676,seated dumbbell palms-up wrist curl,forearms,forearms,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+677,seated dumbbell press,shoulders,shoulders,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+678,seated flat bench leg pull-in,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+679,seated floor hamstring stretch,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+680,seated front deltoid,shoulders,shoulders,bodyweight,compound,push,advanced,4.0,5.0,6,10,9.0
+681,seated glute,legs,glutes,bodyweight,isolation,other,advanced,4.0,5.0,6,10,9.0
+682,seated good mornings,back,lower,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+683,seated hamstring,legs,hamstrings,other,isolation,other,advanced,4.0,5.0,6,10,9.0
+684,seated hamstring and calf stretch,legs,hamstrings,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+685,seated head harness neck resistance,shoulders,neck,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+686,seated leg curl,legs,hamstrings,machine,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+687,seated leg tucks,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+688,seated one-arm dumbbell palms-down wrist curl,forearms,forearms,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+689,seated one-arm dumbbell palms-up wrist curl,forearms,forearms,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+690,seated one-arm cable pulley rows,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+691,seated overhead stretch,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+692,seated palm-up barbell wrist curl,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+693,seated palms-down barbell wrist curl,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+694,seated side lateral raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+695,seated triceps press,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+696,seated two-arm palms-up low-pulley wrist curl,forearms,forearms,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+697,see-saw press (alternating side press),shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+698,shotgun row,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+699,shoulder circles,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+700,shoulder press - with bands,shoulders,shoulders,bands,compound,push,beginner,3.0,3.0,10,15,8.0
+701,shoulder raise,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+702,shoulder stretch,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+703,side-lying floor stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+704,side bridge,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+705,side hop-sprint,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+706,side jackknife,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+707,side lateral raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+708,side laterals to front raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+709,side leg raises,legs,adductors,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+710,side lying groin stretch,legs,adductors,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+711,side neck stretch,shoulders,neck,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+712,side standing long jump,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+713,side to side chins,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+714,side wrist pull,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+715,side to side box shuffle,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+716,single-arm cable crossover,chest,chest,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+717,single-arm linear jammer,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+718,single-arm push-up,chest,chest,bodyweight,compound,push,intermediate,3.0,4.0,8,12,7.5
+719,single-cone sprint drill,legs,quadriceps,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+720,single-leg high box squat,legs,quadriceps,other,compound,squat,beginner,3.0,3.0,10,15,8.0
+721,single-leg hop progression,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+722,single-leg lateral hop,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+723,single-leg leg extension,legs,quadriceps,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+724,single-leg stride jump,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+725,single dumbbell raise,shoulders,shoulders,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+726,single leg butt kick,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+727,single leg glute bridge,legs,glutes,bodyweight,isolation,push,beginner,3.0,3.0,10,15,8.0
+728,single leg push-off,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+729,sit-up,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+730,sit squats,legs,quadriceps,other,compound,squat,beginner,3.0,3.0,10,15,8.0
+731,skating,legs,quadriceps,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+732,sled drag - harness,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+733,sled overhead backward walk,shoulders,shoulders,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+734,sled overhead triceps extension,arms,triceps,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+735,sled push,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+736,sled reverse flye,shoulders,shoulders,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+737,sled row,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+738,sledgehammer swings,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+739,smith incline shoulder raise,shoulders,shoulders,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+740,smith machine behind the back shrug,back,upper,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+741,smith machine bench press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+742,smith machine bent over row,back,upper,machine,compound,pull,beginner,3.0,3.0,10,15,8.0
+743,smith machine calf raise,legs,calves,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+744,smith machine close-grip bench press,arms,triceps,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+745,smith machine decline press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+746,smith machine hang power clean,legs,hamstrings,machine,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+747,smith machine hip raise,abs,abs,machine,isolation,core,beginner,3.0,3.0,10,15,8.0
+748,smith machine incline bench press,chest,chest,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+749,smith machine leg press,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+750,smith machine one-arm upright row,shoulders,shoulders,machine,compound,pull,beginner,3.0,3.0,10,15,8.0
+751,smith machine overhead shoulder press,shoulders,shoulders,machine,compound,push,beginner,3.0,3.0,10,15,8.0
+752,smith machine pistol squat,legs,quadriceps,machine,compound,squat,intermediate,3.0,4.0,8,12,7.5
+753,smith machine reverse calf raises,legs,calves,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+754,smith machine squat,legs,quadriceps,machine,compound,squat,beginner,3.0,3.0,10,15,8.0
+755,smith machine stiff-legged deadlift,legs,hamstrings,machine,compound,hinge,beginner,3.0,3.0,10,15,8.0
+756,smith machine upright row,back,upper,machine,compound,pull,beginner,3.0,3.0,10,15,8.0
+757,smith single-leg split squat,legs,quadriceps,machine,compound,squat,beginner,3.0,3.0,10,15,8.0
+758,snatch,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+759,snatch balance,legs,quadriceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+760,snatch deadlift,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+761,snatch pull,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+762,snatch shrug,back,upper,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+763,snatch from blocks,legs,quadriceps,barbell,compound,pull,advanced,4.0,5.0,6,10,9.0
+764,speed band overhead triceps,arms,triceps,bands,isolation,push,beginner,3.0,3.0,10,15,8.0
+765,speed box squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+766,speed squats,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+767,spell caster,abs,abs,dumbbells,compound,core,beginner,3.0,3.0,10,15,8.0
+768,spider crawl,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+769,spider curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+770,spinal stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+771,split clean,legs,quadriceps,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+772,split jerk,legs,quadriceps,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+773,split jump,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+774,split snatch,legs,hamstrings,barbell,compound,hinge,advanced,4.0,5.0,6,10,9.0
+775,split squat with dumbbells,legs,quadriceps,dumbbells,compound,squat,beginner,3.0,3.0,10,15,8.0
+776,split squats,legs,hamstrings,other,compound,squat,intermediate,3.0,4.0,8,12,7.5
+777,squat jerk,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+778,squat with bands,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+779,squat with chains,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+780,squat with plate movers,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+781,squats - with bands,legs,quadriceps,bands,compound,squat,beginner,3.0,3.0,10,15,8.0
+782,stairmaster,legs,quadriceps,machine,isolation,other,intermediate,3.0,4.0,8,12,7.5
+783,standing alternating dumbbell press,shoulders,shoulders,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+784,standing barbell calf raise,legs,calves,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+785,standing barbell press behind neck,shoulders,shoulders,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+786,standing bent-over one-arm dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+787,standing bent-over two-arm dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+788,standing biceps cable curl,arms,biceps,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+789,standing biceps stretch,arms,biceps,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+790,standing bradford press,shoulders,shoulders,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+791,standing cable chest press,chest,chest,cable,compound,push,beginner,3.0,3.0,10,15,8.0
+792,standing cable lift,abs,abs,cable,compound,core,beginner,3.0,3.0,10,15,8.0
+793,standing cable wood chop,abs,abs,cable,compound,core,beginner,3.0,3.0,10,15,8.0
+794,standing concentration curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+795,standing dumbbell calf raise,legs,calves,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+796,standing dumbbell press,shoulders,shoulders,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+797,standing dumbbell reverse curl,arms,biceps,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+798,standing dumbbell straight-arm front delt raise above head,shoulders,shoulders,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+799,standing dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+800,standing dumbbell upright row,back,upper,dumbbells,compound,pull,beginner,3.0,3.0,10,15,8.0
+801,standing elevated quad stretch,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+802,standing front barbell raise over head,shoulders,shoulders,barbell,isolation,push,intermediate,3.0,4.0,8,12,7.5
+803,standing gastrocnemius calf stretch,legs,calves,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+804,standing hamstring and calf stretch,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+805,standing hip circles,legs,abductors,bodyweight,isolation,pull,beginner,3.0,3.0,10,15,8.0
+806,standing hip flexors,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+807,standing inner-biceps curl,arms,biceps,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+808,standing lateral stretch,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+809,standing leg curl,legs,hamstrings,machine,isolation,hinge,beginner,3.0,3.0,10,15,8.0
+810,standing long jump,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+811,standing low-pulley deltoid raise,shoulders,shoulders,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+812,standing low-pulley one-arm triceps extension,arms,triceps,cable,isolation,push,intermediate,3.0,4.0,8,12,7.5
+813,standing military press,shoulders,shoulders,barbell,compound,push,beginner,3.0,3.0,10,15,8.0
+814,standing olympic plate hand squeeze,forearms,forearms,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+815,standing one-arm cable curl,arms,biceps,cable,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+816,standing one-arm dumbbell curl over incline bench,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+817,standing one-arm dumbbell triceps extension,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+818,standing overhead barbell triceps extension,arms,triceps,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+819,standing palm-in one-arm dumbbell press,shoulders,shoulders,dumbbells,compound,push,beginner,3.0,3.0,10,15,8.0
+820,standing palms-in dumbbell press,shoulders,shoulders,dumbbells,compound,push,intermediate,3.0,4.0,8,12,7.5
+821,standing palms-up barbell behind the back wrist curl,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+822,standing pelvic tilt,back,lower,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+823,standing rope crunch,abs,abs,cable,isolation,core,beginner,3.0,3.0,10,15,8.0
+824,standing soleus and achilles stretch,legs,calves,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+825,standing toe touches,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+826,standing towel triceps extension,arms,triceps,bodyweight,isolation,push,beginner,3.0,3.0,10,15,8.0
+827,standing two-arm overhead throw,shoulders,shoulders,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+828,star jump,legs,quadriceps,bodyweight,compound,push,beginner,3.0,3.0,10,15,8.0
+829,step-up with knee raise,legs,glutes,bodyweight,compound,squat,beginner,3.0,3.0,10,15,8.0
+830,step mill,legs,quadriceps,machine,isolation,other,intermediate,3.0,4.0,8,12,7.5
+831,stiff-legged barbell deadlift,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+832,stiff-legged dumbbell deadlift,legs,hamstrings,dumbbells,compound,hinge,beginner,3.0,3.0,10,15,8.0
+833,stiff leg barbell good morning,back,lower,barbell,compound,hinge,beginner,3.0,3.0,10,15,8.0
+834,stomach vacuum,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+835,straight-arm dumbbell pullover,chest,chest,dumbbells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+836,straight-arm pulldown,back,upper,cable,isolation,pull,beginner,3.0,3.0,10,15,8.0
+837,straight bar bench mid rows,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+838,straight raises on incline bench,shoulders,shoulders,barbell,isolation,push,beginner,3.0,3.0,10,15,8.0
+839,stride jump crossover,legs,quadriceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+840,sumo deadlift,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+841,sumo deadlift with bands,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+842,sumo deadlift with chains,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+843,superman,back,lower,bodyweight,compound,other,beginner,3.0,3.0,10,15,8.0
+844,supine chest throw,arms,triceps,other,compound,push,beginner,3.0,3.0,10,15,8.0
+845,supine one-arm overhead throw,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+846,supine two-arm overhead throw,abs,abs,other,compound,core,beginner,3.0,3.0,10,15,8.0
+847,suspended fallout,abs,abs,other,isolation,core,intermediate,3.0,4.0,8,12,7.5
+848,suspended push-up,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+849,suspended reverse crunch,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+850,suspended row,back,upper,other,compound,pull,beginner,3.0,3.0,10,15,8.0
+851,suspended split squat,legs,quadriceps,other,compound,squat,intermediate,3.0,4.0,8,12,7.5
+852,svend press,chest,chest,other,compound,push,beginner,3.0,3.0,10,15,8.0
+853,t-bar row with handle,back,upper,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+854,tate press,arms,triceps,dumbbells,isolation,push,intermediate,3.0,4.0,8,12,7.5
+855,the straddle,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+856,thigh abductor,legs,abductors,machine,isolation,push,beginner,3.0,3.0,10,15,8.0
+857,thigh adductor,legs,adductors,machine,isolation,pull,beginner,3.0,3.0,10,15,8.0
+858,tire flip,legs,quadriceps,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+859,toe touchers,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+860,torso rotation,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+861,trail running/walking,legs,quadriceps,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+862,trap bar deadlift,legs,quadriceps,other,compound,hinge,beginner,3.0,3.0,10,15,8.0
+863,tricep dumbbell kickback,arms,triceps,dumbbells,isolation,push,beginner,3.0,3.0,10,15,8.0
+864,tricep side stretch,arms,triceps,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+865,triceps overhead extension with rope,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+866,triceps pushdown,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+867,triceps pushdown - rope attachment,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+868,triceps pushdown - v-bar attachment,arms,triceps,cable,isolation,push,beginner,3.0,3.0,10,15,8.0
+869,triceps stretch,arms,triceps,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+870,tuck crunch,abs,abs,bodyweight,isolation,core,beginner,3.0,3.0,10,15,8.0
+871,two-arm dumbbell preacher curl,arms,biceps,dumbbells,isolation,pull,beginner,3.0,3.0,10,15,8.0
+872,two-arm kettlebell clean,shoulders,shoulders,kettlebells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+873,two-arm kettlebell jerk,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+874,two-arm kettlebell military press,shoulders,shoulders,kettlebells,compound,push,intermediate,3.0,4.0,8,12,7.5
+875,two-arm kettlebell row,back,upper,kettlebells,compound,pull,intermediate,3.0,4.0,8,12,7.5
+876,underhand cable pulldowns,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+877,upper back-leg grab,legs,hamstrings,other,isolation,other,beginner,3.0,3.0,10,15,8.0
+878,upper back stretch,back,upper,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+879,upright barbell row,shoulders,shoulders,barbell,compound,pull,beginner,3.0,3.0,10,15,8.0
+880,upright cable row,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+881,upright row - with bands,back,upper,bands,compound,pull,beginner,3.0,3.0,10,15,8.0
+882,upward stretch,shoulders,shoulders,other,isolation,push,beginner,3.0,3.0,10,15,8.0
+883,v-bar pulldown,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+884,v-bar pullup,back,upper,bodyweight,compound,pull,beginner,3.0,3.0,10,15,8.0
+885,vertical swing,legs,hamstrings,dumbbells,compound,hinge,beginner,3.0,3.0,10,15,8.0
+886,"walking, treadmill",legs,quadriceps,machine,isolation,other,beginner,3.0,3.0,10,15,8.0
+887,weighted ball hyperextension,back,lower,other,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+888,weighted ball side bend,abs,abs,other,isolation,core,intermediate,3.0,4.0,8,12,7.5
+889,weighted bench dip,arms,triceps,other,compound,push,intermediate,3.0,4.0,8,12,7.5
+890,weighted crunches,abs,abs,other,isolation,core,beginner,3.0,3.0,10,15,8.0
+891,weighted jump squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+892,weighted pull ups,back,upper,other,compound,pull,intermediate,3.0,4.0,8,12,7.5
+893,weighted sissy squat,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+894,weighted sit-ups - with bands,abs,abs,other,isolation,core,intermediate,3.0,4.0,8,12,7.5
+895,weighted squat,legs,quadriceps,other,compound,squat,intermediate,3.0,4.0,8,12,7.5
+896,wide-grip barbell bench press,chest,chest,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+897,wide-grip decline barbell bench press,chest,chest,barbell,compound,push,intermediate,3.0,4.0,8,12,7.5
+898,wide-grip decline barbell pullover,chest,chest,barbell,compound,pull,intermediate,3.0,4.0,8,12,7.5
+899,wide-grip lat pulldown,back,upper,cable,compound,pull,beginner,3.0,3.0,10,15,8.0
+900,wide-grip pulldown behind the neck,back,upper,cable,compound,pull,intermediate,3.0,4.0,8,12,7.5
+901,wide-grip rear pull-up,back,upper,bodyweight,compound,pull,intermediate,3.0,4.0,8,12,7.5
+902,wide-grip standing barbell curl,arms,biceps,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+903,wide stance barbell squat,legs,quadriceps,barbell,compound,squat,intermediate,3.0,4.0,8,12,7.5
+904,wide stance stiff legs,legs,hamstrings,barbell,compound,hinge,intermediate,3.0,4.0,8,12,7.5
+905,wind sprints,abs,abs,bodyweight,compound,core,beginner,3.0,3.0,10,15,8.0
+906,windmills,legs,abductors,other,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+907,world's greatest stretch,legs,hamstrings,other,isolation,other,intermediate,3.0,4.0,8,12,7.5
+908,wrist circles,forearms,forearms,bodyweight,isolation,pull,beginner,3.0,3.0,10,15,8.0
+909,wrist roller,forearms,forearms,other,isolation,pull,beginner,3.0,3.0,10,15,8.0
+910,wrist rotations with straight bar,forearms,forearms,barbell,isolation,pull,beginner,3.0,3.0,10,15,8.0
+911,yoke walk,legs,quadriceps,other,compound,other,intermediate,3.0,4.0,8,12,7.5
+912,zercher squats,legs,quadriceps,barbell,compound,squat,advanced,4.0,5.0,6,10,9.0
+913,zottman curl,arms,biceps,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5
+914,zottman preacher curl,arms,biceps,dumbbells,isolation,pull,intermediate,3.0,4.0,8,12,7.5

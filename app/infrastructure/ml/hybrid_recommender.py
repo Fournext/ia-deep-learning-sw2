@@ -19,7 +19,7 @@ class HybridRecommendationEngine(IRecommendationEngine):
         torch.manual_seed(42)
         self._ncf_model = NeuralCollaborativeFiltering(
             num_users=1000,
-            num_exercises=100,
+            num_exercises=1200,
             embedding_dim=16,
             mlp_hidden_layers=[32, 16, 8],
         )
@@ -145,7 +145,7 @@ class HybridRecommendationEngine(IRecommendationEngine):
             content_score = self._calculate_content_score(ex, evaluation, posture_findings)
 
             # Inferencia de afinidad con Neural CF
-            ex_idx = min(ex.exercise_id_num, 99)
+            ex_idx = min(ex.exercise_id_num, 1199)
             ex_tensor = torch.tensor([ex_idx], dtype=torch.long)
             with torch.no_grad():
                 ncf_affinity = float(self._ncf_model(user_tensor, ex_tensor).item())

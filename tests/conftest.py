@@ -39,7 +39,7 @@ def sample_image_bytes() -> bytes:
 def sample_video_path(tmp_path: Any) -> str:
     """Crea un archivo de video AVI sintético de 25 fotogramas para pruebas."""
     video_file = str(tmp_path / "test_exercise.avi")
-    fourcc = cv2.VideoWriter_fourcc(*"MJPG")
+    fourcc = cv2.VideoWriter_fourcc(*"MJPG")  # type: ignore[attr-defined]
     out = cv2.VideoWriter(video_file, fourcc, 10.0, (320, 240))
     for i in range(25):
         frame = np.full((240, 320, 3), 220, dtype=np.uint8)

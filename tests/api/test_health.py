@@ -60,7 +60,7 @@ async def test_exception_handlers() -> None:
     res_403 = await approval_pending_handler(dummy_req, RoutineApprovalPendingError("p-1"))
     assert res_403.status_code == 403
 
-    res_400_file = await invalid_file_handler(dummy_req, InvalidFileTypeError("test.exe", [".jpg"]))
+    res_400_file = await invalid_file_handler(dummy_req, InvalidFileTypeError("test.exe", ".jpg"))
     assert res_400_file.status_code == 400
 
     res_400_gen = await generic_gym_ai_handler(dummy_req, GymAIError("Error general"))
