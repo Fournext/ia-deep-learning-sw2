@@ -10,6 +10,7 @@ RUN python -m venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 
 RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu && \
     pip install --no-cache-dir \
     "fastapi>=0.115.0" \
     "uvicorn[standard]>=0.30.0" \
@@ -21,7 +22,6 @@ RUN pip install --no-cache-dir --upgrade pip && \
     "numpy>=1.26.4,<2.0.0" \
     "pandas>=2.2.0" \
     "scikit-learn>=1.5.0" \
-    "torch>=2.2.0" \
     "httpx>=0.27.0"
 
 # --- Runtime Stage ---
